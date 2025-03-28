@@ -1,0 +1,35 @@
+body {
+  overflow-y: scroll;
+}
+
+.App {
+  
+}
+
+.Header {
+  position: absolute;
+  z-index: 2;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  pointer-events: none
+}
+
+.Header-menu {
+  display: flex;
+  width: 70rem;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 60px;
+  opacity: 1;
+}
+
+.Header-menu h1 {
+  font-size: xx-large;
+  color: rgb(255, 255, 255);
+}
+
+Canvas {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,519 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3074,
+      "max": [
+        0.9479991793632507,
+        2.1006362438201904,
+        1.658661127090454
+      ],
+      "min": [
+        -1.8107688426971436,
+        -1.5145244598388672,
+        -1.544060468673706
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 36888,
+      "componentType": 5126,
+      "count": 3074,
+      "max": [
+        0.999982476234436,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999796152114868,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3074,
+      "max": [
+        0.6250002384185791,
+        1.0000001192092896
+      ],
+      "min": [
+        0.125,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 16512,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 73776,
+      "componentType": 5126,
+      "count": 3809,
+      "max": [
+        0.16924618184566498,
+        2.543003797531128,
+        1.1700795888900757
+      ],
+      "min": [
+        -1.1191519498825073,
+        0.8898075222969055,
+        -1.371938705444336
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 119484,
+      "componentType": 5126,
+      "count": 3809,
+      "max": [
+        0.9991098642349243,
+        0.9999051094055176,
+        0.9997431039810181
+      ],
+      "min": [
+        -0.9991098642349243,
+        -0.9997504949569702,
+        -0.9980323314666748
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24592,
+      "componentType": 5126,
+      "count": 3809,
+      "max": [
+        0.9877274036407471,
+        0.45922327041625977
+      ],
+      "min": [
+        0.008269397541880608,
+        0.013158770278096199
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 66048,
+      "componentType": 5125,
+      "count": 21996,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 165192,
+      "componentType": 5126,
+      "count": 2026,
+      "max": [
+        0.14839498698711395,
+        1.2247852087020874,
+        1.2737374305725098
+      ],
+      "min": [
+        -1.0437512397766113,
+        0.7161825895309448,
+        0.6513510346412659
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 189504,
+      "componentType": 5126,
+      "count": 2026,
+      "max": [
+        0.9969021677970886,
+        0.9997614622116089,
+        0.9956626892089844
+      ],
+      "min": [
+        -0.9969021677970886,
+        -0.9997609853744507,
+        -0.9956626892089844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 55064,
+      "componentType": 5126,
+      "count": 2026,
+      "max": [
+        0.9834614396095276,
+        0.45432397723197937
+      ],
+      "min": [
+        0.016538796946406364,
+        0.018058069050312042
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 154032,
+      "componentType": 5125,
+      "count": 11430,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 213816,
+      "componentType": 5126,
+      "count": 2965,
+      "max": [
+        2.1050283908843994,
+        0.5981519222259521,
+        1.6579351425170898
+      ],
+      "min": [
+        -1.9480434656143188,
+        -0.7675519585609436,
+        -1.127612829208374
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 249396,
+      "componentType": 5126,
+      "count": 2965,
+      "max": [
+        0.9999828338623047,
+        0.9997056722640991,
+        0.9999544620513916
+      ],
+      "min": [
+        -0.9999630451202393,
+        -0.9997056722640991,
+        -0.999998927116394
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 71272,
+      "componentType": 5126,
+      "count": 2965,
+      "max": [
+        0.6250001788139343,
+        1.0000001192092896
+      ],
+      "min": [
+        0.6249999403953552,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 199752,
+      "componentType": 5125,
+      "count": 16512,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Mistrz_mobile (https://sketchfab.com/Mistrz_mobile)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/gromit-mug-2e6d9e77be114535b01d7ef028c2f49c",
+      "title": "Gromit Mug"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 265800,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 94992,
+      "byteOffset": 265800,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 284976,
+      "byteOffset": 360792,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 645768,
+      "uri": "gromitMug.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 1.0,
+          "clearcoatRoughnessFactor": 0.04
+        }
+      },
+      "name": "Cream",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.611852,
+          0.355643,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8448605934686547
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 1.0,
+          "clearcoatRoughnessFactor": 0.04
+        }
+      },
+      "name": "Nose",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 1.0,
+          "clearcoatRoughnessFactor": 0.04
+        }
+      },
+      "name": "White",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8211145618000169
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 1.0,
+          "clearcoatRoughnessFactor": 0.04
+        }
+      },
+      "name": "brown",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0871396,
+          0.011752500000000006,
+          0.007924850000000004,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9938500436018156
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "GROMIT_Cream_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "GROMIT_Nose_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "GROMIT_White_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "GROMIT_brown_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -1.0,
+        6.290011496532519e-32,
+        -2.832769343193999e-16,
+        0.0,
+        -2.832769343193999e-16,
+        -2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.048413265496492386,
+        2.9769033531195663e-08,
+        -0.31827259063720703,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "0c84ad0ff47a4be19a2f6ef8fc4156ae.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        30.946149826049805,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -5.041767754221439e-06,
+        -30.946149826049396,
+        0.0,
+        0.0,
+        30.946147918700763,
+        -5.041767443474905e-06,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GROMIT"
+    },
+    {
+      "mesh": 0,
+      "name": "GROMIT_Cream_0"
+    },
+    {
+      "mesh": 1,
+      "name": "GROMIT_Nose_0"
+    },
+    {
+      "mesh": 2,
+      "name": "GROMIT_White_0"
+    },
+    {
+      "mesh": 3,
+      "name": "GROMIT_brown_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
